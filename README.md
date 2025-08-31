@@ -1,4 +1,4 @@
-# Instantly.AI Coding Assignment for AI Engineers
+# Coding Assignment for AI Engineers
 
 # Assignment:
 
